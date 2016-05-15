@@ -11,6 +11,8 @@
 
 - [Etherpad](https://public.etherpad-mozilla.org/p/2016-05-16-CAM)
 
+- [An example of bad teaching](https://www.youtube.com/watch?v=-ApVt04rB4U)
+
 ### Data carpentry
 
 This hands-on workshop teaches basic concepts, skills and tools for
